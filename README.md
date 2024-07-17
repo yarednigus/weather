@@ -9,7 +9,7 @@ Welcome to the Weather Forecast Application! This project is built with React Ja
 - **Real-time Weather Data:** Get the latest weather updates for any city or region.
 - **Search Functionality:** Easily search for weather information by entering a city name.
 - **Detailed Forecasts:** View detailed weather conditions, including temperature, humidity, wind speed, and more.
-- **User-friendly Interface:** Enjoy a clean and intuitive user interface designed by Yared.
+- **User-friendly Interface:** Enjoy a clean and intuitive user interface designed by Yared Nigussie 
 - **Responsive Design:** Access the application on various devices, including desktops, tablets, and smartphones.
 
 ## Technologies Used
